@@ -28,7 +28,3 @@ LeArm AI
    docs/15.LeArm_Synchronization_Controller_Course.md
    docs/Appendix.md
    Download<https://drive.google.com/drive/folders/1OnU6SC0Wc7oRPk8l6BEuOX519DnwVkOo?usp=sharing>
-
-
-
-
