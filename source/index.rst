@@ -22,7 +22,7 @@ LeArm AI
    docs/9.Serial_Communication_Operation_Course.md
    docs/10.LeArm_Sliding_Rail_Course.md
    docs/11.LeArm_Conveyor_Belt_Course.md
-   docs/12. LeArm_Wireless_Glove_Course.md
+   docs/12.LeArm_Wireless_Glove_Course.md
    docs/13.LeArm_Mecanum_Wheel_Chassis_Course.md
    docs/14.LeArm_Tank_Chassis_Course.md
    docs/15.LeArm_Synchronization_Controller_Course.md
